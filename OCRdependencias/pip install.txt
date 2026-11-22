@@ -1,0 +1,15 @@
+1. Pillow (para manejar las imágenes):
+bash
+pip install Pillow
+
+2. pytesseract (para leer el texto de las imágenes):
+bash
+pip install pytesseract
+
+3. pyperclip (para copiar el texto al portapapeles):
+bash
+pip install pyperclip
+
+4. (Opcional) imageio (para manejar imágenes en otros formatos, prescindible para este flujo):
+bash
+pip install imageio
